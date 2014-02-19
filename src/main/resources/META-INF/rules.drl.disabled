@@ -12,3 +12,5 @@ global User user
 global Service service
 global Logger logger
 global JCRContentUtils jcrUtils
+
+
